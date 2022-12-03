@@ -1,4 +1,4 @@
 - 👋 ٱلسَّلَامُ عَلَيْكُمْ
-- 👀 I’m interested in programmming whether it is backEndk, frongEnd, apkDev.
+- 👀 I’m interested in programmming whether it is backEnd, frongEnd, apkDev.
 - 🌱 I’m currently learning python Django..
 - 📫 My email zaidulrehman2618@gmail.com .
