@@ -1,4 +1,6 @@
 - 👋 ٱلسَّلَامُ عَلَيْكُمْ
+
+- Programming is just my HOBBY.
 - 👀 I’m interested in programmming whether it is backEnd, frongEnd, apkDev.
-- 🌱 I’m currently learning python Django..
-- 📫 My email zaidulrehman2618@gmail.com .
+- 🌱 I am Kashmir based.
+- 📫 You can reach me at zaidulrehman2618@gmail.com or [my webpage](https://myrecentwork.netlify.app)
